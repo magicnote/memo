@@ -4,3 +4,4 @@
 
 ##### category:  
 * [software](https://github.com/magicnote/memo/tree/master/software)
+* [plugins](https://github.com/magicnote/memo/tree/master/plugins)
