@@ -8,6 +8,6 @@
 
 ##### sublime text
 * phpfmt [github](https://github.com/phpfmt/fmt)
-* DocBlockr [github](https://github.com/nikhilkalige/docblockr)
+* DocBlockr [github](https://github.com/spadgos/sublime-jsdocs)
 
  
